@@ -26,10 +26,10 @@ announcements:
   scrollable: true
   limit: 5
 
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+# latest_posts:
+#   enabled: true
+#   scrollable: true
+#   limit: 3
 ---
 
 I am Gao Gui, a researcher and engineer working at the intersection of artificial intelligence, machine learning, and statistics.
