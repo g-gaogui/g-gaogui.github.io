@@ -1,33 +1,23 @@
 cv:
   name: Gao Gui
-  label: AI Researcher | Machine Learning Engineer
+  label: AI Ressearcher & Applied AI Engineer
   email: gaogui@u.nus.edu
   location: Singapore
   image: ""
-  summary: >
-    AI researcher and engineer with a background in Computer Science,
-    Statistics, and Mathematics. Interested in generative AI, multi-agent
-    systems, probabilistic reasoning, and trustworthy AI, with experience
-    spanning academic research and production-scale AI systems.
+  summary: AI researcher and engineer with a background in Computer Science, Statistics, and Mathematics. Interested in generative AI, multi-agent systems, probabilistic reasoning, and trustworthy AI, with experience spanning academic research and production-scale AI systems.
 
-  social_networks:
-    - network: GitHub
-      username: gaogui
-    - network: LinkedIn
-      username: gaogui
-
-sections:
-  Education:
-    - institution: National University of Singapore
-      location: Singapore
-      area: Computer Science
-      studyType: Bachelor of Computing (Honours)
-      start_date: 2019-08
-      end_date: 2023-12
-      score: "CAP: 4.68 / 5.00 (First Class Honours with Highest Distinction)"
-      highlights:
-        - Second Major in Statistics
-        - Minor in Mathematics
+  sections:
+    Education:
+      - institution: National University of Singapore
+        location: Singapore
+        area: Computer Science
+        studyType: Bachelor of Computing (Honours)
+        start_date: 2019-08
+        end_date: 2023-12
+        score: "CAP: 4.68 / 5.00 (First Class Honours with Highest Distinction)"
+        highlights:
+          - Second Major in Statistics
+          - Minor in Mathematics
 
   Experience:
     - company: UBS
@@ -49,7 +39,7 @@ sections:
         - Developed an orchestrable AI framework and generative AI knowledge systems for internal workflow automation.
         - Designed graph-based knowledge systems for extracting market insights from financial data.
         - Built LLM web agents for automated ticket resolution using feedback-driven refinement.
-        - Developed hybrid statistical–LLM pipelines for client behavior modeling and decision support.
+        - Developed hybrid statistical LLM pipelines for client behavior modeling and decision support.
 
     - company: Tencent
       position: AI Engineer
@@ -159,47 +149,19 @@ sections:
 
   Skills:
     - name: Artificial Intelligence & Machine Learning
-      keywords:
-        - Generative AI
-        - Large Language Models
-        - Statistical Machine Learning
-        - Model Evaluation
-        - Trustworthy AI
+      keywords: Generative AI, Large Language Models, Statistical Machine Learning, Model Evaluation, Trustworthy AI
 
     - name: LLM Systems & Agents
-      keywords:
-        - LangChain
-        - CrewAI
-        - DSPy
-        - Agency-Swarm
-        - Azure OpenAI
-        - RAG
-        - Agentic AI
+      keywords: LangChain, CrewAI, DSPy, Agency-Swarm, Azure OpenAI, RAG, Agentic AI
 
     - name: Programming
-      keywords:
-        - Python
-        - Java
-        - C++
+      keywords: Python, Java, C++
 
     - name: Data Science & Statistics
-      keywords:
-        - Probability
-        - Statistical Inference
-        - Bayesian Methods
-        - Applied Data Modelling
+      keywords: Probability, Statistical Inference, Bayesian Methods, Applied Data Modelling
 
     - name: ML Frameworks
-      keywords:
-        - PyTorch
-        - NumPy
-        - OpenCV
-        - Model Training
-        - Fine-tuning
-        - Production Deployment
+      keywords: PyTorch, NumPy, OpenCV, Model Training, Fine-tuning. Production Deployment
 
     - name: Software Engineering
-      keywords:
-        - Data Structures
-        - Algorithms
-        - System Design
+      keywords: Data Structures, Algorithms, System Design
