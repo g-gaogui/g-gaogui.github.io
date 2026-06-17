@@ -1,6 +1,6 @@
 cv:
   name: Gao Gui
-  label: AI Ressearcher & Applied AI Engineer
+  label: AI Ressearcher | Applied AI Engineer
   email: gaogui@u.nus.edu
   location: Singapore
   image: ""
@@ -109,6 +109,13 @@ cv:
         end_date: 2022-12
         highlights:
           - Produced promotional media supporting volunteer engagement and outreach.
+
+    Awards:
+      - title: "Patent: Data Augmentation for Essay Correction"
+        date: 2022-06-14
+        url: http://epub.cnipa.gov.cn/patent/CN114626365A
+        awarder: China National Intellectual Property Administration
+        summary: Developed adversarial data augmentation framework for AI grading systems
 
     Projects:
       - name: "Face Mask Detection for Disease X: A Probabilistic Approach"
