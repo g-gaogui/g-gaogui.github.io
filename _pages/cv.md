@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description: >
   My work lies at the intersection of artificial intelligence, machine learning, and statistics. I am particularly interested in generative AI, multi-agent systems, probabilistic reasoning, and trustworthy AI, with experience spanning academic research, large-scale industrial AI systems, and applied machine learning.
