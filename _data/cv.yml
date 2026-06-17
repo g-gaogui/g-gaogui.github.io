@@ -4,7 +4,11 @@ cv:
   email: gaogui@u.nus.edu
   location: Singapore
   image: ""
-  summary: AI researcher and engineer with a background in Computer Science, Statistics, and Mathematics. Interested in generative AI, multi-agent systems, probabilistic reasoning, and trustworthy AI, with experience spanning academic research and production-scale AI systems.
+  summary: >
+    AI researcher and engineer with a background in Computer Science,
+    Statistics, and Mathematics. Interested in generative AI, multi-agent
+    systems, probabilistic reasoning, and trustworthy AI, with experience
+    spanning academic research and production-scale AI systems.
 
   sections:
     Education:
@@ -19,149 +23,149 @@ cv:
           - Second Major in Statistics
           - Minor in Mathematics
 
-  Experience:
-    - company: UBS
-      position: AI Data Scientist
-      location: Singapore
-      start_date: 2026-02
-      end_date: Present
-      highlights:
-        - Developed multilingual speech-to-text systems supporting English, Mandarin, and Cantonese.
-        - Investigated LLM-based synthetic data generation and domain adaptation for finance-specific speech understanding.
-        - Built conversational AI capabilities for wealth management applications across Hong Kong and Singapore.
+    Experience:
+      - company: UBS
+        position: AI Data Scientist
+        location: Singapore
+        start_date: 2026-02
+        end_date: Present
+        highlights:
+          - Developed multilingual speech-to-text systems supporting English, Mandarin, and Cantonese.
+          - Investigated LLM-based synthetic data generation and domain adaptation for finance-specific speech understanding.
+          - Built conversational AI capabilities for wealth management applications across Hong Kong and Singapore.
 
-    - company: UBS
-      position: Applied AI Engineer
-      location: Singapore
-      start_date: 2024-02
-      end_date: 2026-01
-      highlights:
-        - Developed an orchestrable AI framework and generative AI knowledge systems for internal workflow automation.
-        - Designed graph-based knowledge systems for extracting market insights from financial data.
-        - Built LLM web agents for automated ticket resolution using feedback-driven refinement.
-        - Developed hybrid statistical LLM pipelines for client behavior modeling and decision support.
+      - company: UBS
+        position: Applied AI Engineer
+        location: Singapore
+        start_date: 2024-02
+        end_date: 2026-01
+        highlights:
+          - Developed an orchestrable AI framework and generative AI knowledge systems for internal workflow automation.
+          - Designed graph-based knowledge systems for extracting market insights from financial data.
+          - Built LLM web agents for automated ticket resolution using feedback-driven refinement.
+          - Developed hybrid statistical LLM pipelines for client behavior modeling and decision support.
 
-    - company: Tencent
-      position: AI Engineer
-      location: Singapore
-      start_date: 2021-06
-      end_date: 2022-06
-      highlights:
-        - Developed ART evaluation methodologies for large-scale AI systems serving over 10 million users.
-        - Designed black-box adversarial testing strategies to improve robustness and trustworthiness under distribution shifts.
+      - company: Tencent
+        position: AI Engineer
+        location: Singapore
+        start_date: 2021-06
+        end_date: 2022-06
+        highlights:
+          - Developed ART evaluation methodologies for large-scale AI systems serving over 10 million users.
+          - Designed black-box adversarial testing strategies to improve robustness and trustworthiness under distribution shifts.
 
-    - company: National University of Singapore
-      position: Research Assistant, Bayesian Optimization Research Group
-      location: Singapore
-      start_date: 2022-08
-      end_date: 2022-12
-      highlights:
-        - Conducted metamodeling and simulation optimization research for real-world applications.
-        - Processed high-dimensional datasets using machine learning techniques.
+      - company: National University of Singapore
+        position: Research Assistant, Bayesian Optimization Research Group
+        location: Singapore
+        start_date: 2022-08
+        end_date: 2022-12
+        highlights:
+          - Conducted metamodeling and simulation optimization research for real-world applications.
+          - Processed high-dimensional datasets using machine learning techniques.
 
-    - company: NUS-NCS Joint Laboratory for Cyber Security
-      position: Research Assistant
-      location: Singapore
-      start_date: 2022-08
-      end_date: 2022-11
-      highlights:
-        - Designed machine learning algorithms and systems for data security and privacy applications.
+      - company: NUS-NCS Joint Laboratory for Cyber Security
+        position: Research Assistant
+        location: Singapore
+        start_date: 2022-08
+        end_date: 2022-11
+        highlights:
+          - Designed machine learning algorithms and systems for data security and privacy applications.
 
-    - company: National University of Singapore
-      position: Undergraduate Researcher
-      location: Singapore
-      start_date: 2023-01
-      end_date: 2023-12
-      summary: Interactive Visual Grounding of Ambiguous Natural Language Instructions
-      highlights:
-        - Developed an attribute-guided disambiguation system for robotic placement tasks.
-        - Designed entropy-based query selection mechanisms for ambiguity resolution.
-        - Improved grounding accuracy through interactive human-robot communication.
+      - company: National University of Singapore
+        position: Undergraduate Researcher
+        location: Singapore
+        start_date: 2023-01
+        end_date: 2023-12
+        summary: Interactive Visual Grounding of Ambiguous Natural Language Instructions
+        highlights:
+          - Developed an attribute-guided disambiguation system for robotic placement tasks.
+          - Designed entropy-based query selection mechanisms for ambiguity resolution.
+          - Improved grounding accuracy through interactive human-robot communication.
 
-    - company: National University of Singapore
-      position: Teaching Assistant
-      location: Singapore
-      start_date: 2020-08
-      end_date: 2021-05
-      summary: Programming Methodology II
-      highlights:
-        - Conducted lab sessions covering object-oriented and functional programming.
-        - Prepared teaching materials and supported student learning.
+      - company: National University of Singapore
+        position: Teaching Assistant
+        location: Singapore
+        start_date: 2020-08
+        end_date: 2021-05
+        summary: Programming Methodology II
+        highlights:
+          - Conducted lab sessions covering object-oriented and functional programming.
+          - Prepared teaching materials and supported student learning.
 
-  Volunteer:
-    - company: We Are Hear (Singapore)
-      position: Core Team Member
-      location: Singapore
-      start_date: 2022-08
-      end_date: Present
-      highlights:
-        - Supported mental health awareness initiatives through community listening programs.
-        - Managed social media and outreach activities.
+    Volunteer:
+      - company: We Are Hear (Singapore)
+        position: Core Team Member
+        location: Singapore
+        start_date: 2022-08
+        end_date: Present
+        highlights:
+          - Supported mental health awareness initiatives through community listening programs.
+          - Managed social media and outreach activities.
 
-    - company: Wicare (Singapore)
-      position: Technical Volunteer
-      location: Singapore
-      start_date: 2022-08
-      end_date: 2022-12
-      highlights:
-        - Produced promotional media supporting volunteer engagement and outreach.
+      - company: Wicare (Singapore)
+        position: Technical Volunteer
+        location: Singapore
+        start_date: 2022-08
+        end_date: 2022-12
+        highlights:
+          - Produced promotional media supporting volunteer engagement and outreach.
 
-  Projects:
-    - name: "Face Mask Detection for Disease X: A Probabilistic Approach"
-      start_date: 2023-01
-      end_date: 2023-06
-      summary: Bayesian deep learning for robust mask detection under uncertainty.
-      highlights:
-        - Bayesian CNNs
-        - Denoising Variational Autoencoders
-        - Uncertainty Quantification
+    Projects:
+      - name: "Face Mask Detection for Disease X: A Probabilistic Approach"
+        start_date: 2023-01
+        end_date: 2023-06
+        summary: Bayesian deep learning for robust mask detection under uncertainty.
+        highlights:
+          - Bayesian CNNs
+          - Denoising Variational Autoencoders
+          - Uncertainty Quantification
 
-    - name: Reinforcement Learning from Human Feedback in ChatGPT
-      start_date: 2023-01
-      end_date: 2023-06
-      summary: Investigation of RLHF and PPO for aligning large language models with human preferences.
-      highlights:
-        - RLHF
-        - PPO
-        - LLM Alignment
+      - name: Reinforcement Learning from Human Feedback in ChatGPT
+        start_date: 2023-01
+        end_date: 2023-06
+        summary: Investigation of RLHF and PPO for aligning large language models with human preferences.
+        highlights:
+          - RLHF
+          - PPO
+          - LLM Alignment
 
-    - name: Aspect-Based Sentiment Analysis with Enhanced Graph Convolutional Networks
-      start_date: 2022-08
-      end_date: 2022-12
-      summary: Graph neural network approach for sentiment polarity classification.
-      highlights:
-        - Graph Convolutional Networks
-        - NLP
-        - SenticNet
+      - name: Aspect-Based Sentiment Analysis with Enhanced Graph Convolutional Networks
+        start_date: 2022-08
+        end_date: 2022-12
+        summary: Graph neural network approach for sentiment polarity classification.
+        highlights:
+          - Graph Convolutional Networks
+          - NLP
+          - SenticNet
 
-    - name: Orbital Software Engineering Project (Advanced Certificate)
-      start_date: 2020-06
-      end_date: 2020-08
+      - name: Orbital Software Engineering Project (Advanced Certificate)
+        start_date: 2020-06
+        end_date: 2020-08
 
-  Certificates:
-    - name: Tencent Cloud Practitioner Certificate
-      date: 2023-12
-      issuer: Tencent Cloud
+    Certificates:
+      - name: Tencent Cloud Practitioner Certificate
+        date: 2023-12
+        issuer: Tencent Cloud
 
-    - name: Orbital Advanced Certificate
-      date: 2020-08
-      issuer: National University of Singapore
+      - name: Orbital Advanced Certificate
+        date: 2020-08
+        issuer: National University of Singapore
 
-  Skills:
-    - name: Artificial Intelligence & Machine Learning
-      keywords: Generative AI, Large Language Models, Statistical Machine Learning, Model Evaluation, Trustworthy AI
+    Skills:
+      - name: Artificial Intelligence & Machine Learning
+        keywords: Generative AI, Large Language Models, Statistical Machine Learning, Model Evaluation, Trustworthy AI
 
-    - name: LLM Systems & Agents
-      keywords: LangChain, CrewAI, DSPy, Agency-Swarm, Azure OpenAI, RAG, Agentic AI
+      - name: LLM Systems & Agents
+        keywords: LangChain, CrewAI, DSPy, Agency-Swarm, Azure OpenAI, RAG, Agentic AI
 
-    - name: Programming
-      keywords: Python, Java, C++
+      - name: Programming
+        keywords: Python, Java, C++
 
-    - name: Data Science & Statistics
-      keywords: Probability, Statistical Inference, Bayesian Methods, Applied Data Modelling
+      - name: Data Science & Statistics
+        keywords: Probability, Statistical Inference, Bayesian Methods, Applied Data Modelling
 
-    - name: ML Frameworks
-      keywords: PyTorch, NumPy, OpenCV, Model Training, Fine-tuning. Production Deployment
+      - name: ML Frameworks
+        keywords: PyTorch, NumPy, OpenCV, Model Training, Fine-tuning. Production Deployment
 
-    - name: Software Engineering
-      keywords: Data Structures, Algorithms, System Design
+      - name: Software Engineering
+        keywords: Data Structures, Algorithms, System Design
