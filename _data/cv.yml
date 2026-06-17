@@ -1,259 +1,205 @@
 cv:
   name: Gao Gui
-
-  label: Applied AI Engineer
-
+  label: AI Researcher | Machine Learning Engineer
   email: gaogui@u.nus.edu
-
   location: Singapore
-
   image: ""
-
   summary: >
-
-    Applied AI Engineer with strong experience in LLM systems, generative AI,
-
-    and machine learning. Proven track record in building production-grade AI
-
-    solutions in finance, speech systems, and autonomous agents.
+    AI researcher and engineer with a background in Computer Science,
+    Statistics, and Mathematics. Interested in generative AI, multi-agent
+    systems, probabilistic reasoning, and trustworthy AI, with experience
+    spanning academic research and production-scale AI systems.
 
   social_networks:
     - network: GitHub
-
-      username: jackgao09
-
+      username: gaogui
     - network: LinkedIn
-
-      username: gui-gao-73909b192
-
-    - network: Website
-
-      username: jackgao09.github.io
-
-  sections:
-    Education:
-      - institution: National University of Singapore
-
-        location: Singapore
-
-        area: Computer Science
-
-        studyType: Bachelor of Computing (Honours)
-
-        start_date: 2019-08
-
-        end_date: 2023-12
-
-        score: "CAP 4.68/5.0 (First Class Honours with Highest Distinction)"
-
-        highlights:
-          - Second Major in Statistics, Minor in Mathematics
-
-    Experience:
-      - company: UBS
-
-        position: Applied AI Engineer
-
-        location: Singapore
-
-        start_date: 2024-02
-
-        end_date: Present
-
-        highlights:
-          - Developed LLM-enhanced pipeline for client behavior modeling using multi-source financial data
-
-          - Built latent representations for interpretable client profiling and decision support
-
-          - Designed multilingual speech-to-text system with diarization, translation, and domain adaptation
-
-          - Improved Whisper models using synthetic data generation for financial terminology
-
-          - Built LLM-based web agents for automated ticket resolution, reducing manual workload by ~50%
-
-          - Developed orchestrable AI framework and GenAI knowledge systems for internal automation
-
-      - company: Tencent
-
-        position: AI Engineer
-
-        location: China
-
-        start_date: 2021-06
-
-        end_date: 2022-06
-
-        highlights:
-          - Developed evaluation framework for large-scale AI systems (availability, robustness, trustworthiness)
-
-          - Conducted adversarial testing via data augmentation to improve model robustness in production
-
-    Research:
-      - institution: National University of Singapore
-
-        position: Final Year Project
-
-        start_date: 2023-01
-
-        end_date: 2023-12
-
-        highlights:
-          - Built interactive visual grounding system for ambiguous natural language instructions
-
-          - Designed entropy-based query selection for efficient robot interaction
-
-          - Improved success rate in object disambiguation tasks
-
-      - institution: NUS Bayesian Optimization Group
-
-        position: Research Assistant
-
-        start_date: 2022-08
-
-        end_date: 2022-12
-
-        highlights:
-          - Conducted metamodeling and simulation optimization for real-world problems
-
-          - Processed high-dimensional data using machine learning techniques
-
-      - institution: NUS-NCS Joint Lab for Cyber Security
-
-        position: Research Assistant
-
-        start_date: 2022-08
-
-        end_date: 2022-11
-
-        highlights:
-          - Designed ML systems for data security and privacy
-
-    Projects:
-      - name: LLM Web Agent for Ticket Automation
-
-        start_date: 2024-06
-
-        end_date: 2024-12
-
-        highlights:
-          - Built agent framework leveraging few-shot learning and feedback refinement
-
-          - Improved robustness in noisy environments
-
-      - name: Multilingual Speech Intelligence System
-
-        start_date: 2025-06
-
-        end_date: 2026-02
-
-        highlights:
-          - Developed end-to-end system with ASR, translation, and speaker diarization
-
-          - Applied domain adaptation for finance-specific speech
-
-      - name: Face Mask Detection (Bayesian Deep Learning)
-
-        start_date: 2023-01
-
-        end_date: 2023-06
-
-        highlights:
-          - Built DVAE-based system for robustness under noisy conditions
-
-          - Applied Bayesian CNNs for uncertainty estimation
-
-      - name: RLHF for Conversational AI
-
-        start_date: 2023-01
-
-        end_date: 2023-06
-
-        highlights:
-          - Studied PPO and RLHF for aligning ChatGPT-like systems
-
-      - name: Aspect-Based Sentiment Analysis (GCN)
-
-        start_date: 2022-08
-
-        end_date: 2022-12
-
-        highlights:
-          - Built enhanced GCN with dependency optimization and SenticNet integration
-
-    Awards:
-      - title: "Patent: Data Augmentation for Essay Correction"
-
-        date: 2022-06
-
-        awarder: CNIPA
-
-        summary: Developed adversarial data augmentation framework for AI grading systems
-
-    Certificates:
-      - name: Tencent Cloud Practitioner
-
-        date: 2023-12
-
-        issuer: Tencent
-
-    Teaching:
-      - institution: National University of Singapore
-
-        position: Teaching Assistant (Programming Methodology II)
-
-        start_date: 2020-08
-
-        end_date: 2021-05
-
-        highlights:
-          - Conducted lab sessions on OOP and functional programming
-
-          - Provided mentoring and academic support
-
-    Volunteer:
-      - organization: We Are Hear (Singapore)
-
-        position: Core Team Member
-
-        start_date: 2022-08
-
-        end_date: Present
-
-        highlights:
-          - Supported mental health initiatives and community outreach
-
-      - organization: Wicare (Singapore)
-
-        position: Technical Volunteer
-
-        start_date: 2022-08
-
-        end_date: 2022-12
-
-        highlights:
-          - Produced media content reducing event cost by ~$2000
-
-    Skills:
-      - name: AI & Machine Learning
-
-        keywords: "LLMs, Generative AI, Statistical ML, Model Evaluation"
-
-      - name: LLM Systems & Agents
-
-        keywords: "LangChain, CrewAI, DSPy, RAG, Azure OpenAI"
-
-      - name: Programming
-
-        keywords: "Python, Java, C++"
-
-      - name: Data Science & Statistics
-
-        keywords: "Probability, Statistical Inference, Data Modelling"
-
-      - name: ML Frameworks
-
-        keywords: "PyTorch, NumPy, OpenCV"
-
-      - name: Algorithms
-
-        keywords: "Data Structures and Algorithms, System Design"
+      username: gaogui
+
+sections:
+  Education:
+    - institution: National University of Singapore
+      location: Singapore
+      area: Computer Science
+      studyType: Bachelor of Computing (Honours)
+      start_date: 2019-08
+      end_date: 2023-12
+      score: "CAP: 4.68 / 5.00 (First Class Honours with Highest Distinction)"
+      highlights:
+        - Second Major in Statistics
+        - Minor in Mathematics
+
+  Experience:
+    - company: UBS
+      position: AI Data Scientist
+      location: Singapore
+      start_date: 2026-02
+      end_date: Present
+      highlights:
+        - Developed multilingual speech-to-text systems supporting English, Mandarin, and Cantonese.
+        - Investigated LLM-based synthetic data generation and domain adaptation for finance-specific speech understanding.
+        - Built conversational AI capabilities for wealth management applications across Hong Kong and Singapore.
+
+    - company: UBS
+      position: Applied AI Engineer
+      location: Singapore
+      start_date: 2024-02
+      end_date: 2026-01
+      highlights:
+        - Developed an orchestrable AI framework and generative AI knowledge systems for internal workflow automation.
+        - Designed graph-based knowledge systems for extracting market insights from financial data.
+        - Built LLM web agents for automated ticket resolution using feedback-driven refinement.
+        - Developed hybrid statistical–LLM pipelines for client behavior modeling and decision support.
+
+    - company: Tencent
+      position: AI Engineer
+      location: Singapore
+      start_date: 2021-06
+      end_date: 2022-06
+      highlights:
+        - Developed ART evaluation methodologies for large-scale AI systems serving over 10 million users.
+        - Designed black-box adversarial testing strategies to improve robustness and trustworthiness under distribution shifts.
+
+    - company: National University of Singapore
+      position: Research Assistant, Bayesian Optimization Research Group
+      location: Singapore
+      start_date: 2022-08
+      end_date: 2022-12
+      highlights:
+        - Conducted metamodeling and simulation optimization research for real-world applications.
+        - Processed high-dimensional datasets using machine learning techniques.
+
+    - company: NUS-NCS Joint Laboratory for Cyber Security
+      position: Research Assistant
+      location: Singapore
+      start_date: 2022-08
+      end_date: 2022-11
+      highlights:
+        - Designed machine learning algorithms and systems for data security and privacy applications.
+
+    - company: National University of Singapore
+      position: Undergraduate Researcher
+      location: Singapore
+      start_date: 2023-01
+      end_date: 2023-12
+      summary: Interactive Visual Grounding of Ambiguous Natural Language Instructions
+      highlights:
+        - Developed an attribute-guided disambiguation system for robotic placement tasks.
+        - Designed entropy-based query selection mechanisms for ambiguity resolution.
+        - Improved grounding accuracy through interactive human-robot communication.
+
+    - company: National University of Singapore
+      position: Teaching Assistant
+      location: Singapore
+      start_date: 2020-08
+      end_date: 2021-05
+      summary: Programming Methodology II
+      highlights:
+        - Conducted lab sessions covering object-oriented and functional programming.
+        - Prepared teaching materials and supported student learning.
+
+  Volunteer:
+    - company: We Are Hear (Singapore)
+      position: Core Team Member
+      location: Singapore
+      start_date: 2022-08
+      end_date: Present
+      highlights:
+        - Supported mental health awareness initiatives through community listening programs.
+        - Managed social media and outreach activities.
+
+    - company: Wicare (Singapore)
+      position: Technical Volunteer
+      location: Singapore
+      start_date: 2022-08
+      end_date: 2022-12
+      highlights:
+        - Produced promotional media supporting volunteer engagement and outreach.
+
+  Projects:
+    - name: "Face Mask Detection for Disease X: A Probabilistic Approach"
+      start_date: 2023-01
+      end_date: 2023-06
+      summary: Bayesian deep learning for robust mask detection under uncertainty.
+      highlights:
+        - Bayesian CNNs
+        - Denoising Variational Autoencoders
+        - Uncertainty Quantification
+
+    - name: Reinforcement Learning from Human Feedback in ChatGPT
+      start_date: 2023-01
+      end_date: 2023-06
+      summary: Investigation of RLHF and PPO for aligning large language models with human preferences.
+      highlights:
+        - RLHF
+        - PPO
+        - LLM Alignment
+
+    - name: Aspect-Based Sentiment Analysis with Enhanced Graph Convolutional Networks
+      start_date: 2022-08
+      end_date: 2022-12
+      summary: Graph neural network approach for sentiment polarity classification.
+      highlights:
+        - Graph Convolutional Networks
+        - NLP
+        - SenticNet
+
+    - name: Orbital Software Engineering Project (Advanced Certificate)
+      start_date: 2020-06
+      end_date: 2020-08
+
+  Certificates:
+    - name: Tencent Cloud Practitioner Certificate
+      date: 2023-12
+      issuer: Tencent Cloud
+
+    - name: Orbital Advanced Certificate
+      date: 2020-08
+      issuer: National University of Singapore
+
+  Skills:
+    - name: Artificial Intelligence & Machine Learning
+      keywords:
+        - Generative AI
+        - Large Language Models
+        - Statistical Machine Learning
+        - Model Evaluation
+        - Trustworthy AI
+
+    - name: LLM Systems & Agents
+      keywords:
+        - LangChain
+        - CrewAI
+        - DSPy
+        - Agency-Swarm
+        - Azure OpenAI
+        - RAG
+        - Agentic AI
+
+    - name: Programming
+      keywords:
+        - Python
+        - Java
+        - C++
+
+    - name: Data Science & Statistics
+      keywords:
+        - Probability
+        - Statistical Inference
+        - Bayesian Methods
+        - Applied Data Modelling
+
+    - name: ML Frameworks
+      keywords:
+        - PyTorch
+        - NumPy
+        - OpenCV
+        - Model Training
+        - Fine-tuning
+        - Production Deployment
+
+    - name: Software Engineering
+      keywords:
+        - Data Structures
+        - Algorithms
+        - System Design
