@@ -1,4 +1,3 @@
-```md
 ---
 layout: page
 permalink: /research/
@@ -17,4 +16,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-```
