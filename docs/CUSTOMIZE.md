@@ -8,6 +8,7 @@ Here we will give you some tips on how to customize the website. One important t
 
 - [Customize](#customize)
   - [Project structure](#project-structure)
+    - [Where common files moved in `v1.x`](#where-common-files-moved-in-v1x)
   - [Configuration](#configuration)
   - [GitHub Copilot Customization Agent](#github-copilot-customization-agent)
     - [What the Agent Can Help With](#what-the-agent-can-help-with)
@@ -54,6 +55,9 @@ Here we will give you some tips on how to customize the website. One important t
   - [Adding social media information](#adding-social-media-information)
   - [Adding a newsletter](#adding-a-newsletter)
   - [Configuring search features](#configuring-search-features)
+  - [Sidebar table of contents (Tocbot)](#sidebar-table-of-contents-tocbot)
+  - [Pretty tables in Tailwind mode](#pretty-tables-in-tailwind-mode)
+  - [Lightbox images](#lightbox-images)
   - [Social media previews](#social-media-previews)
     - [How to enable](#how-to-enable)
     - [Configuring preview images](#configuring-preview-images)
@@ -69,6 +73,11 @@ Here we will give you some tips on how to customize the website. One important t
     - [Enable the calendar script for your page](#enable-the-calendar-script-for-your-page)
     - [Optional: Customize the calendar style](#optional-customize-the-calendar-style)
   - [Updating third-party libraries](#updating-third-party-libraries)
+  - [Plugin ecosystem (v1.x)](#plugin-ecosystem-v1x)
+    - [Naming convention](#naming-convention)
+    - [Featured vs bundled plugins](#featured-vs-bundled-plugins)
+  - [Bootstrap compatibility mode (v1.x)](#bootstrap-compatibility-mode-v1x)
+    - [Compatibility matrix](#compatibility-matrix)
   - [Removing content](#removing-content)
     - [Removing the blog page](#removing-the-blog-page)
     - [Removing the news section](#removing-the-news-section)
@@ -764,8 +773,8 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gao]
+  first_name: [Gui]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in [\_data/coauthors.yml](../_data/coauthors.yml) and Jekyll will insert links to their webpages automatically. The co-author data format is as follows, with the last names lower cased and without accents as the key:
