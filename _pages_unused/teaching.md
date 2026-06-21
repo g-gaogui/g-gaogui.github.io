@@ -27,4 +27,3 @@ calendar: true
     <li>Prepared teaching materials and provided academic support throughout the course.</li>
   </ul>
 </div>
-
