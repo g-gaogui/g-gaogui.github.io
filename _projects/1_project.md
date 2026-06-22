@@ -8,7 +8,6 @@ category: work
 related_publications: true
 ---
 
-
 <h2>Overview</h2>
 
 <p>
@@ -71,4 +70,3 @@ than implementation details.
 <p>
 Python · PyTorch · NumPy · OpenCV
 </p>
-
