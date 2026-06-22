@@ -5,7 +5,7 @@ description: An investigation of RLHF as the key paradigm behind instruction-fol
 importance: 2
 img: assets/img/RF.jpg
 category: academic
-related_publications: true
+related_publications: false
 ---
 
 <h2>Overview</h2>

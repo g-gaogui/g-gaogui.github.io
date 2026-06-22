@@ -5,7 +5,7 @@ description: Bayesian deep learning for robust face mask detection under uncerta
 importance: 1
 img: assets/img/mask.jpg
 category: academic
-related_publications: true
+related_publications: false
 ---
 
 <h2>Overview</h2>
