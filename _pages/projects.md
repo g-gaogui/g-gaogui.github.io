@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Test.
+description: Academic and technical projects spanning machine learning, artificial intelligence, statistical modeling, and software engineering.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [academic, industry]
 horizontal: false
 ---
 
