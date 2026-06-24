@@ -3,6 +3,7 @@ layout: page
 title: LLM Multi-Agent Framework for Automated Ticket Resolution
 description: An agentic AI framework for cross-platform ticket automation, collaboration, and feedback-driven learning.
 importance: 2
+img: assets/img/web.png
 category: industry
 ---
 

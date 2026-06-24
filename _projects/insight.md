@@ -3,6 +3,7 @@ layout: page
 title: LLM-Enhanced Client Behavior Modeling and Decision Intelligence
 description: A hybrid Bayesian and LLM framework for client behavior modeling, advisor intelligence, and personalized financial recommendations.
 importance: 1
+img: assets/img/insight.png
 category: industry
 ---
 
