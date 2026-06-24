@@ -3,6 +3,7 @@ layout: page
 title: Multilingual Speech-to-Text and Audio Intelligence Systems
 description: An end-to-end multilingual speech intelligence platform integrating transcription, translation, retrieval, and evaluation for financial services.
 importance: 3
+img: assets/img/s2t.png
 category: industry
 ---
 

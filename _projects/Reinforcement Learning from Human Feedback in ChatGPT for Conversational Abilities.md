@@ -3,7 +3,7 @@ layout: page
 title: Reinforcement Learning from Human Feedback in ChatGPT for Conversational Abilities
 description: An investigation of RLHF as the key paradigm behind instruction-following large language models.
 importance: 2
-img: assets/img/RF.jpg
+img: assets/img/RF.png
 category: academic
 related_publications: false
 ---

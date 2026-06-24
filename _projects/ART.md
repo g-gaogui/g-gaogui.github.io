@@ -3,6 +3,7 @@ layout: page
 title: "ART: Availability, Robustness, and Trustworthiness Evaluation Framework"
 description: A large-scale multimodal evaluation framework for assessing the reliability of production AI systems serving over 10 million users.
 importance: 4
+img: assets/img/ART.png
 category: industry
 ---
 

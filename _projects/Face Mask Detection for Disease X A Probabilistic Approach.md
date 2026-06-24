@@ -3,7 +3,7 @@ layout: page
 title: "Face Mask Detection for Disease X: A Probabilistic Approach"
 description: Bayesian deep learning for robust face mask detection under uncertainty.
 importance: 1
-img: assets/img/mask.jpg
+img: assets/img/mask.png
 category: academic
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Aspect-Based Sentiment Analysis with Enhanced Graph Convolutional Networks
 description: An enhanced GCN architecture that integrates affective knowledge and aspect-oriented dependency structure for fine-grained sentiment classification.
 importance: 2
-img: assets/img/ABS.jpg
+img: assets/img/ABS.png
 category: academic
 related_publications: false
 ---

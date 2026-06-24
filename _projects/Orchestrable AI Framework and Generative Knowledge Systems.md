@@ -3,6 +3,7 @@ layout: page
 title: Orchestrable AI Framework and Generative Knowledge Systems
 description: An LLM-powered orchestration framework and graph knowledge system for financial reasoning and decision intelligence.
 importance: 5
+img: assets/img/orchestrable.png
 category: industry
 ---
 
