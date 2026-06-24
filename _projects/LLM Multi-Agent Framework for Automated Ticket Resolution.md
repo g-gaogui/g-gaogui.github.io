@@ -7,6 +7,8 @@ img: assets/img/web.png
 category: industry
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/web_wide.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
 <h2>Overview</h2>
 
 <p>
