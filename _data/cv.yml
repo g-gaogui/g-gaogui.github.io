@@ -1,6 +1,6 @@
 cv:
   name: Gao Gui
-  label: AI Ressearcher | Applied AI Engineer
+  label: AI Researcher | Applied AI Engineer
   email: gaogui@u.nus.edu
   location: Singapore
   image: ""
@@ -15,7 +15,7 @@ cv:
       - institution: National University of Singapore
         location: Singapore
         area: Computer Science
-        studyType: Bachelor of Computing (Honours)
+        studyType: Bachelor of Computing (Honours with Highest Distinction)
         start_date: 2019-08
         end_date: 2023-12
         score: "CAP: 4.68 / 5.00 (First Class Honours with Highest Distinction)"
