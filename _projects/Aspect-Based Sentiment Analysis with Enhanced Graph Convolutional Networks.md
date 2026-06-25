@@ -7,6 +7,7 @@ img: assets/img/ABS.png
 category: academic
 related_publications: false
 ---
+{% include figure.liquid loading="eager" path="assets/img/ABS_wide.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 <h2>Overview</h2>
 
