@@ -18,7 +18,7 @@ calendar: true
   </p>
 
   <p>
-    Instructor: Prof. [Henry Chia Wai Kit](https://www.comp.nus.edu.sg/cs/people/hchia/)
+    Instructor: Prof. <a href="https://www.comp.nus.edu.sg/cs/people/hchia/">Henry Chia Wai Kit</a>
   </p>
 
   <ul>
