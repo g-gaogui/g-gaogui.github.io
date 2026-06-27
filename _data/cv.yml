@@ -111,10 +111,10 @@ cv:
           - Produced promotional media supporting volunteer engagement and outreach.
 
     Awards:
-      - title: "Patent: Data Augmentation for Essay Correction"
+      - title: "Patent: Adversarial Error Generation for Robust Grammatical Error Correction"
         date: 2022-06-14
-        url: http://epub.cnipa.gov.cn/patent/CN114626365A
-        awarder: China National Intellectual Property Administration
+        url: https://patents.google.com/patent/CN114626365A/en?oq=CN114626365A
+        awarder: 'China National Intellectual Property Administration; official title: "Composition error correction model defect determination method, apparatus, device and storage medium"'
         summary: Developed adversarial data augmentation framework for AI grading systems
 
     Projects:
