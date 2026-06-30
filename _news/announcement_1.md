@@ -7,4 +7,4 @@ related_posts: false
 
 ---
 
-Appointed Director at [Evolvable AI](https://evolvable.ai/en), focusing on adaptive and agentic AI systems research.
+Appointed Director at [Evolvable AI](https://evolvable.dev/), focusing on adaptive and agentic AI systems research.

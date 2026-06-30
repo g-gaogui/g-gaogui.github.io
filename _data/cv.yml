@@ -114,7 +114,7 @@ cv:
       - title: "Patent: Adversarial Error Generation for Robust Grammatical Error Correction"
         date: 2022-06-14
         url: https://patents.google.com/patent/CN114626365A/en?oq=CN114626365A
-        awarder: 'China National Intellectual Property Administration; official title: "Composition error correction model defect determination method, apparatus, device and storage medium"'
+        awarder: China National Intellectual Property Administration
         summary: Developed adversarial data augmentation framework for AI grading systems
 
     Projects:
